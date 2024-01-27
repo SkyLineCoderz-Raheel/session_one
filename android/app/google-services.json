@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099323109524",
+    "project_id": "session-one-fe7c8",
+    "storage_bucket": "session-one-fe7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099323109524:android:4a87c9fb3289351160c481",
+        "android_client_info": {
+          "package_name": "skylinecoderz.com.session_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6X5a-Rhyxa0VFcLmobFoY_9sxAGqrpxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

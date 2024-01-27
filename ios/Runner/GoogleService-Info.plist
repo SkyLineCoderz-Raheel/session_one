@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDnKrrE3RkhPzITCd9DuwJTOnByKn4Mnko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1099323109524</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>skylinecoderz.com.sessionOne</string>
+	<key>PROJECT_ID</key>
+	<string>session-one-fe7c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>session-one-fe7c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1099323109524:ios:9cc4c656db8fe0d960c481</string>
+</dict>
+</plist>
