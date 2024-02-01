@@ -30,6 +30,34 @@ class ScreenSignup extends StatelessWidget {
             }).marginSymmetric(vertical: 8.sp),
             Obx(() {
               return MyInputField(
+                controller: controllerSignup.controllerEducation,
+                readOnly: controllerSignup.signupLoading.value,
+                hint: "Education",
+              );
+            }).marginSymmetric(vertical: 8.sp),
+            Obx(() {
+              return MyInputField(
+                controller: controllerSignup.controllerAddress,
+                readOnly: controllerSignup.signupLoading.value,
+                hint: "Address",
+              );
+            }).marginSymmetric(vertical: 8.sp),
+            Obx(() {
+              return MyInputField(
+                controller: controllerSignup.controllerPhone,
+                readOnly: controllerSignup.signupLoading.value,
+                hint: "Phone",
+              );
+            }).marginSymmetric(vertical: 8.sp),
+            Obx(() {
+              return MyInputField(
+                controller: controllerSignup.controllerGender,
+                readOnly: controllerSignup.signupLoading.value,
+                hint: "Gender",
+              );
+            }).marginSymmetric(vertical: 8.sp),
+            Obx(() {
+              return MyInputField(
                 controller: controllerSignup.controllerEmail,
                 readOnly: controllerSignup.signupLoading.value,
                 hint: "Email",
